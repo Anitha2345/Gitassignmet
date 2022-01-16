@@ -1,1 +1,3 @@
 master text file assignment-3
+
+mergin private and masster file from private branch 
